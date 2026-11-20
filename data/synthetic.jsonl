@@ -1,0 +1,528 @@
+{"id": "synthetic-001", "source": "synthetic", "text": "В карточке поставщика указан ИНН 6601423234.", "spans": [["INN", 33, 43]]}
+{"id": "synthetic-002", "source": "synthetic", "text": "В карточке поставщика указан ИНН 770721834006.", "spans": [["INN", 33, 45]]}
+{"id": "synthetic-003", "source": "synthetic", "text": "В карточке поставщика указан ИНН 5402290429.", "spans": [["INN", 33, 43]]}
+{"id": "synthetic-004", "source": "synthetic", "text": "В карточке поставщика указан ИНН 502747624504.", "spans": [["INN", 33, 45]]}
+{"id": "synthetic-005", "source": "synthetic", "text": "В карточке поставщика указан ИНН 7707789657.", "spans": [["INN", 33, 43]]}
+{"id": "synthetic-006", "source": "synthetic", "text": "В карточке поставщика указан ИНН 540251594729.", "spans": [["INN", 33, 45]]}
+{"id": "synthetic-007", "source": "synthetic", "text": "В карточке поставщика указан ИНН 7707778246.", "spans": [["INN", 33, 43]]}
+{"id": "synthetic-008", "source": "synthetic", "text": "В карточке поставщика указан ИНН 770728545772.", "spans": [["INN", 33, 45]]}
+{"id": "synthetic-009", "source": "synthetic", "text": "Проверили ИНН: 6601423234.", "spans": [["INN", 15, 25]]}
+{"id": "synthetic-010", "source": "synthetic", "text": "Проверили ИНН: 770721834006.", "spans": [["INN", 15, 27]]}
+{"id": "synthetic-011", "source": "synthetic", "text": "Проверили ИНН: 5402290429.", "spans": [["INN", 15, 25]]}
+{"id": "synthetic-012", "source": "synthetic", "text": "Проверили ИНН: 502747624504.", "spans": [["INN", 15, 27]]}
+{"id": "synthetic-013", "source": "synthetic", "text": "Проверили ИНН: 7707789657.", "spans": [["INN", 15, 25]]}
+{"id": "synthetic-014", "source": "synthetic", "text": "Проверили ИНН: 540251594729.", "spans": [["INN", 15, 27]]}
+{"id": "synthetic-015", "source": "synthetic", "text": "Проверили ИНН: 7707778246.", "spans": [["INN", 15, 25]]}
+{"id": "synthetic-016", "source": "synthetic", "text": "Проверили ИНН: 770728545772.", "spans": [["INN", 15, 27]]}
+{"id": "synthetic-017", "source": "synthetic", "text": "Для договора оставили реквизит налогоплательщика 6601423234.", "spans": [["INN", 49, 59]]}
+{"id": "synthetic-018", "source": "synthetic", "text": "Для договора оставили реквизит налогоплательщика 770721834006.", "spans": [["INN", 49, 61]]}
+{"id": "synthetic-019", "source": "synthetic", "text": "Для договора оставили реквизит налогоплательщика 5402290429.", "spans": [["INN", 49, 59]]}
+{"id": "synthetic-020", "source": "synthetic", "text": "Для договора оставили реквизит налогоплательщика 502747624504.", "spans": [["INN", 49, 61]]}
+{"id": "synthetic-021", "source": "synthetic", "text": "Для договора оставили реквизит налогоплательщика 7707789657.", "spans": [["INN", 49, 59]]}
+{"id": "synthetic-022", "source": "synthetic", "text": "Для договора оставили реквизит налогоплательщика 540251594729.", "spans": [["INN", 49, 61]]}
+{"id": "synthetic-023", "source": "synthetic", "text": "Для договора оставили реквизит налогоплательщика 7707778246.", "spans": [["INN", 49, 59]]}
+{"id": "synthetic-024", "source": "synthetic", "text": "Для договора оставили реквизит налогоплательщика 770728545772.", "spans": [["INN", 49, 61]]}
+{"id": "synthetic-025", "source": "synthetic", "text": "ИНН 6601423234 нужно внести в акт.", "spans": [["INN", 4, 14]]}
+{"id": "synthetic-026", "source": "synthetic", "text": "ИНН 770721834006 нужно внести в акт.", "spans": [["INN", 4, 16]]}
+{"id": "synthetic-027", "source": "synthetic", "text": "ИНН 5402290429 нужно внести в акт.", "spans": [["INN", 4, 14]]}
+{"id": "synthetic-028", "source": "synthetic", "text": "ИНН 502747624504 нужно внести в акт.", "spans": [["INN", 4, 16]]}
+{"id": "synthetic-029", "source": "synthetic", "text": "ИНН 7707789657 нужно внести в акт.", "spans": [["INN", 4, 14]]}
+{"id": "synthetic-030", "source": "synthetic", "text": "ИНН 540251594729 нужно внести в акт.", "spans": [["INN", 4, 16]]}
+{"id": "synthetic-031", "source": "synthetic", "text": "ИНН 7707778246 нужно внести в акт.", "spans": [["INN", 4, 14]]}
+{"id": "synthetic-032", "source": "synthetic", "text": "ИНН 770728545772 нужно внести в акт.", "spans": [["INN", 4, 16]]}
+{"id": "synthetic-033", "source": "synthetic", "text": "В заявке фигурирует ИНН № 6601423234.", "spans": [["INN", 26, 36]]}
+{"id": "synthetic-034", "source": "synthetic", "text": "В заявке фигурирует ИНН № 770721834006.", "spans": [["INN", 26, 38]]}
+{"id": "synthetic-035", "source": "synthetic", "text": "В заявке фигурирует ИНН № 5402290429.", "spans": [["INN", 26, 36]]}
+{"id": "synthetic-036", "source": "synthetic", "text": "В заявке фигурирует ИНН № 502747624504.", "spans": [["INN", 26, 38]]}
+{"id": "synthetic-037", "source": "synthetic", "text": "В заявке фигурирует ИНН № 7707789657.", "spans": [["INN", 26, 36]]}
+{"id": "synthetic-038", "source": "synthetic", "text": "В заявке фигурирует ИНН № 540251594729.", "spans": [["INN", 26, 38]]}
+{"id": "synthetic-039", "source": "synthetic", "text": "В заявке фигурирует ИНН № 7707778246.", "spans": [["INN", 26, 36]]}
+{"id": "synthetic-040", "source": "synthetic", "text": "В заявке фигурирует ИНН № 770728545772.", "spans": [["INN", 26, 38]]}
+{"id": "synthetic-041", "source": "synthetic", "text": "ИНН в выгрузке — 6601423234.", "spans": [["INN", 17, 27]]}
+{"id": "synthetic-042", "source": "synthetic", "text": "ИНН в выгрузке — 770721834006.", "spans": [["INN", 17, 29]]}
+{"id": "synthetic-043", "source": "synthetic", "text": "ИНН в выгрузке — 5402290429.", "spans": [["INN", 17, 27]]}
+{"id": "synthetic-044", "source": "synthetic", "text": "ИНН в выгрузке — 502747624504.", "spans": [["INN", 17, 29]]}
+{"id": "synthetic-045", "source": "synthetic", "text": "ИНН в выгрузке — 7707789657.", "spans": [["INN", 17, 27]]}
+{"id": "synthetic-046", "source": "synthetic", "text": "ИНН в выгрузке — 540251594729.", "spans": [["INN", 17, 29]]}
+{"id": "synthetic-047", "source": "synthetic", "text": "ИНН в выгрузке — 7707778246.", "spans": [["INN", 17, 27]]}
+{"id": "synthetic-048", "source": "synthetic", "text": "ИНН в выгрузке — 770728545772.", "spans": [["INN", 17, 29]]}
+{"id": "synthetic-049", "source": "synthetic", "text": "Сотрудник сверил значение «6601423234» в поле ИНН.", "spans": [["INN", 27, 37]]}
+{"id": "synthetic-050", "source": "synthetic", "text": "Сотрудник сверил значение «770721834006» в поле ИНН.", "spans": [["INN", 27, 39]]}
+{"id": "synthetic-051", "source": "synthetic", "text": "Сотрудник сверил значение «5402290429» в поле ИНН.", "spans": [["INN", 27, 37]]}
+{"id": "synthetic-052", "source": "synthetic", "text": "Сотрудник сверил значение «502747624504» в поле ИНН.", "spans": [["INN", 27, 39]]}
+{"id": "synthetic-053", "source": "synthetic", "text": "Сотрудник сверил значение «7707789657» в поле ИНН.", "spans": [["INN", 27, 37]]}
+{"id": "synthetic-054", "source": "synthetic", "text": "Сотрудник сверил значение «540251594729» в поле ИНН.", "spans": [["INN", 27, 39]]}
+{"id": "synthetic-055", "source": "synthetic", "text": "Сотрудник сверил значение «7707778246» в поле ИНН.", "spans": [["INN", 27, 37]]}
+{"id": "synthetic-056", "source": "synthetic", "text": "Сотрудник сверил значение «770728545772» в поле ИНН.", "spans": [["INN", 27, 39]]}
+{"id": "synthetic-057", "source": "synthetic", "text": "В графе «ИНН» напечатано 6601423234.", "spans": [["INN", 25, 35]]}
+{"id": "synthetic-058", "source": "synthetic", "text": "В графе «ИНН» напечатано 770721834006.", "spans": [["INN", 25, 37]]}
+{"id": "synthetic-059", "source": "synthetic", "text": "В графе «ИНН» напечатано 5402290429.", "spans": [["INN", 25, 35]]}
+{"id": "synthetic-060", "source": "synthetic", "text": "В графе «ИНН» напечатано 502747624504.", "spans": [["INN", 25, 37]]}
+{"id": "synthetic-061", "source": "synthetic", "text": "В графе «ИНН» напечатано 7707789657.", "spans": [["INN", 25, 35]]}
+{"id": "synthetic-062", "source": "synthetic", "text": "В графе «ИНН» напечатано 540251594729.", "spans": [["INN", 25, 37]]}
+{"id": "synthetic-063", "source": "synthetic", "text": "В графе «ИНН» напечатано 7707778246.", "spans": [["INN", 25, 35]]}
+{"id": "synthetic-064", "source": "synthetic", "text": "В графе «ИНН» напечатано 770728545772.", "spans": [["INN", 25, 37]]}
+{"id": "synthetic-065", "source": "synthetic", "text": "Предъявлен паспорт 50 22 № 293745.", "spans": [["PASSPORT", 19, 33]]}
+{"id": "synthetic-066", "source": "synthetic", "text": "Предъявлен паспорт 4618 222000.", "spans": [["PASSPORT", 19, 30]]}
+{"id": "synthetic-067", "source": "synthetic", "text": "Предъявлен паспорт 6622732963.", "spans": [["PASSPORT", 19, 29]]}
+{"id": "synthetic-068", "source": "synthetic", "text": "Предъявлен паспорт 52 04 332330.", "spans": [["PASSPORT", 19, 31]]}
+{"id": "synthetic-069", "source": "synthetic", "text": "Предъявлен паспорт 52 17 № 613666.", "spans": [["PASSPORT", 19, 33]]}
+{"id": "synthetic-070", "source": "synthetic", "text": "Предъявлен паспорт 6607 988365.", "spans": [["PASSPORT", 19, 30]]}
+{"id": "synthetic-071", "source": "synthetic", "text": "Предъявлен паспорт 5003551902.", "spans": [["PASSPORT", 19, 29]]}
+{"id": "synthetic-072", "source": "synthetic", "text": "Предъявлен паспорт 66 04 224711.", "spans": [["PASSPORT", 19, 31]]}
+{"id": "synthetic-073", "source": "synthetic", "text": "Скопируйте в анкету поля паспорта: 50 22 № 293745.", "spans": [["PASSPORT", 35, 49]]}
+{"id": "synthetic-074", "source": "synthetic", "text": "Скопируйте в анкету поля паспорта: 4618 222000.", "spans": [["PASSPORT", 35, 46]]}
+{"id": "synthetic-075", "source": "synthetic", "text": "Скопируйте в анкету поля паспорта: 6622732963.", "spans": [["PASSPORT", 35, 45]]}
+{"id": "synthetic-076", "source": "synthetic", "text": "Скопируйте в анкету поля паспорта: 52 04 332330.", "spans": [["PASSPORT", 35, 47]]}
+{"id": "synthetic-077", "source": "synthetic", "text": "Скопируйте в анкету поля паспорта: 52 17 № 613666.", "spans": [["PASSPORT", 35, 49]]}
+{"id": "synthetic-078", "source": "synthetic", "text": "Скопируйте в анкету поля паспорта: 6607 988365.", "spans": [["PASSPORT", 35, 46]]}
+{"id": "synthetic-079", "source": "synthetic", "text": "Скопируйте в анкету поля паспорта: 5003551902.", "spans": [["PASSPORT", 35, 45]]}
+{"id": "synthetic-080", "source": "synthetic", "text": "Скопируйте в анкету поля паспорта: 66 04 224711.", "spans": [["PASSPORT", 35, 47]]}
+{"id": "synthetic-081", "source": "synthetic", "text": "Сведения о паспорте — 50 22 № 293745.", "spans": [["PASSPORT", 22, 36]]}
+{"id": "synthetic-082", "source": "synthetic", "text": "Сведения о паспорте — 4618 222000.", "spans": [["PASSPORT", 22, 33]]}
+{"id": "synthetic-083", "source": "synthetic", "text": "Сведения о паспорте — 6622732963.", "spans": [["PASSPORT", 22, 32]]}
+{"id": "synthetic-084", "source": "synthetic", "text": "Сведения о паспорте — 52 04 332330.", "spans": [["PASSPORT", 22, 34]]}
+{"id": "synthetic-085", "source": "synthetic", "text": "Сведения о паспорте — 52 17 № 613666.", "spans": [["PASSPORT", 22, 36]]}
+{"id": "synthetic-086", "source": "synthetic", "text": "Сведения о паспорте — 6607 988365.", "spans": [["PASSPORT", 22, 33]]}
+{"id": "synthetic-087", "source": "synthetic", "text": "Сведения о паспорте — 5003551902.", "spans": [["PASSPORT", 22, 32]]}
+{"id": "synthetic-088", "source": "synthetic", "text": "Сведения о паспорте — 66 04 224711.", "spans": [["PASSPORT", 22, 34]]}
+{"id": "synthetic-089", "source": "synthetic", "text": "Проверьте реквизит 50 22 № 293745 в поле паспорта.", "spans": [["PASSPORT", 19, 33]]}
+{"id": "synthetic-090", "source": "synthetic", "text": "Проверьте реквизит 4618 222000 в поле паспорта.", "spans": [["PASSPORT", 19, 30]]}
+{"id": "synthetic-091", "source": "synthetic", "text": "Проверьте реквизит 6622732963 в поле паспорта.", "spans": [["PASSPORT", 19, 29]]}
+{"id": "synthetic-092", "source": "synthetic", "text": "Проверьте реквизит 52 04 332330 в поле паспорта.", "spans": [["PASSPORT", 19, 31]]}
+{"id": "synthetic-093", "source": "synthetic", "text": "Проверьте реквизит 52 17 № 613666 в поле паспорта.", "spans": [["PASSPORT", 19, 33]]}
+{"id": "synthetic-094", "source": "synthetic", "text": "Проверьте реквизит 6607 988365 в поле паспорта.", "spans": [["PASSPORT", 19, 30]]}
+{"id": "synthetic-095", "source": "synthetic", "text": "Проверьте реквизит 5003551902 в поле паспорта.", "spans": [["PASSPORT", 19, 29]]}
+{"id": "synthetic-096", "source": "synthetic", "text": "Проверьте реквизит 66 04 224711 в поле паспорта.", "spans": [["PASSPORT", 19, 31]]}
+{"id": "synthetic-097", "source": "synthetic", "text": "При выдаче сверили паспорт № 50 22 № 293745.", "spans": [["PASSPORT", 29, 43]]}
+{"id": "synthetic-098", "source": "synthetic", "text": "При выдаче сверили паспорт № 4618 222000.", "spans": [["PASSPORT", 29, 40]]}
+{"id": "synthetic-099", "source": "synthetic", "text": "При выдаче сверили паспорт № 6622732963.", "spans": [["PASSPORT", 29, 39]]}
+{"id": "synthetic-100", "source": "synthetic", "text": "При выдаче сверили паспорт № 52 04 332330.", "spans": [["PASSPORT", 29, 41]]}
+{"id": "synthetic-101", "source": "synthetic", "text": "При выдаче сверили паспорт № 52 17 № 613666.", "spans": [["PASSPORT", 29, 43]]}
+{"id": "synthetic-102", "source": "synthetic", "text": "При выдаче сверили паспорт № 6607 988365.", "spans": [["PASSPORT", 29, 40]]}
+{"id": "synthetic-103", "source": "synthetic", "text": "При выдаче сверили паспорт № 5003551902.", "spans": [["PASSPORT", 29, 39]]}
+{"id": "synthetic-104", "source": "synthetic", "text": "При выдаче сверили паспорт № 66 04 224711.", "spans": [["PASSPORT", 29, 41]]}
+{"id": "synthetic-105", "source": "synthetic", "text": "Он указал в заявлении паспорт 50 22 № 293745.", "spans": [["PASSPORT", 30, 44]]}
+{"id": "synthetic-106", "source": "synthetic", "text": "Он указал в заявлении паспорт 4618 222000.", "spans": [["PASSPORT", 30, 41]]}
+{"id": "synthetic-107", "source": "synthetic", "text": "Он указал в заявлении паспорт 6622732963.", "spans": [["PASSPORT", 30, 40]]}
+{"id": "synthetic-108", "source": "synthetic", "text": "Он указал в заявлении паспорт 52 04 332330.", "spans": [["PASSPORT", 30, 42]]}
+{"id": "synthetic-109", "source": "synthetic", "text": "Он указал в заявлении паспорт 52 17 № 613666.", "spans": [["PASSPORT", 30, 44]]}
+{"id": "synthetic-110", "source": "synthetic", "text": "Он указал в заявлении паспорт 6607 988365.", "spans": [["PASSPORT", 30, 41]]}
+{"id": "synthetic-111", "source": "synthetic", "text": "Он указал в заявлении паспорт 5003551902.", "spans": [["PASSPORT", 30, 40]]}
+{"id": "synthetic-112", "source": "synthetic", "text": "Он указал в заявлении паспорт 66 04 224711.", "spans": [["PASSPORT", 30, 42]]}
+{"id": "synthetic-113", "source": "synthetic", "text": "В поле «Паспорт» напечатано 50 22 № 293745.", "spans": [["PASSPORT", 28, 42]]}
+{"id": "synthetic-114", "source": "synthetic", "text": "В поле «Паспорт» напечатано 4618 222000.", "spans": [["PASSPORT", 28, 39]]}
+{"id": "synthetic-115", "source": "synthetic", "text": "В поле «Паспорт» напечатано 6622732963.", "spans": [["PASSPORT", 28, 38]]}
+{"id": "synthetic-116", "source": "synthetic", "text": "В поле «Паспорт» напечатано 52 04 332330.", "spans": [["PASSPORT", 28, 40]]}
+{"id": "synthetic-117", "source": "synthetic", "text": "В поле «Паспорт» напечатано 52 17 № 613666.", "spans": [["PASSPORT", 28, 42]]}
+{"id": "synthetic-118", "source": "synthetic", "text": "В поле «Паспорт» напечатано 6607 988365.", "spans": [["PASSPORT", 28, 39]]}
+{"id": "synthetic-119", "source": "synthetic", "text": "В поле «Паспорт» напечатано 5003551902.", "spans": [["PASSPORT", 28, 38]]}
+{"id": "synthetic-120", "source": "synthetic", "text": "В поле «Паспорт» напечатано 66 04 224711.", "spans": [["PASSPORT", 28, 40]]}
+{"id": "synthetic-121", "source": "synthetic", "text": "Паспортные данные «50 22 № 293745» уже внесены.", "spans": [["PASSPORT", 19, 33]]}
+{"id": "synthetic-122", "source": "synthetic", "text": "Паспортные данные «4618 222000» уже внесены.", "spans": [["PASSPORT", 19, 30]]}
+{"id": "synthetic-123", "source": "synthetic", "text": "Паспортные данные «6622732963» уже внесены.", "spans": [["PASSPORT", 19, 29]]}
+{"id": "synthetic-124", "source": "synthetic", "text": "Паспортные данные «52 04 332330» уже внесены.", "spans": [["PASSPORT", 19, 31]]}
+{"id": "synthetic-125", "source": "synthetic", "text": "Паспортные данные «52 17 № 613666» уже внесены.", "spans": [["PASSPORT", 19, 33]]}
+{"id": "synthetic-126", "source": "synthetic", "text": "Паспортные данные «6607 988365» уже внесены.", "spans": [["PASSPORT", 19, 30]]}
+{"id": "synthetic-127", "source": "synthetic", "text": "Паспортные данные «5003551902» уже внесены.", "spans": [["PASSPORT", 19, 29]]}
+{"id": "synthetic-128", "source": "synthetic", "text": "Паспортные данные «66 04 224711» уже внесены.", "spans": [["PASSPORT", 19, 31]]}
+{"id": "synthetic-129", "source": "synthetic", "text": "Для возврата выбрана карта 4629783933521670.", "spans": [["CARD", 27, 43]]}
+{"id": "synthetic-130", "source": "synthetic", "text": "Для возврата выбрана карта 5909 9059 9524 3285.", "spans": [["CARD", 27, 46]]}
+{"id": "synthetic-131", "source": "synthetic", "text": "Для возврата выбрана карта 4178-5005-5278-8876.", "spans": [["CARD", 27, 46]]}
+{"id": "synthetic-132", "source": "synthetic", "text": "Для возврата выбрана карта 5671 1090 4377 8659.", "spans": [["CARD", 27, 46]]}
+{"id": "synthetic-133", "source": "synthetic", "text": "Для возврата выбрана карта 4960584205282034.", "spans": [["CARD", 27, 43]]}
+{"id": "synthetic-134", "source": "synthetic", "text": "Для возврата выбрана карта 5858 6428 4415 0020.", "spans": [["CARD", 27, 46]]}
+{"id": "synthetic-135", "source": "synthetic", "text": "Для возврата выбрана карта 4084-4533-5627-6427-984.", "spans": [["CARD", 27, 50]]}
+{"id": "synthetic-136", "source": "synthetic", "text": "Для возврата выбрана карта 5608 0249 2086 4370 917.", "spans": [["CARD", 27, 50]]}
+{"id": "synthetic-137", "source": "synthetic", "text": "Укажите номер карты: 4629783933521670.", "spans": [["CARD", 21, 37]]}
+{"id": "synthetic-138", "source": "synthetic", "text": "Укажите номер карты: 5909 9059 9524 3285.", "spans": [["CARD", 21, 40]]}
+{"id": "synthetic-139", "source": "synthetic", "text": "Укажите номер карты: 4178-5005-5278-8876.", "spans": [["CARD", 21, 40]]}
+{"id": "synthetic-140", "source": "synthetic", "text": "Укажите номер карты: 5671 1090 4377 8659.", "spans": [["CARD", 21, 40]]}
+{"id": "synthetic-141", "source": "synthetic", "text": "Укажите номер карты: 4960584205282034.", "spans": [["CARD", 21, 37]]}
+{"id": "synthetic-142", "source": "synthetic", "text": "Укажите номер карты: 5858 6428 4415 0020.", "spans": [["CARD", 21, 40]]}
+{"id": "synthetic-143", "source": "synthetic", "text": "Укажите номер карты: 4084-4533-5627-6427-984.", "spans": [["CARD", 21, 44]]}
+{"id": "synthetic-144", "source": "synthetic", "text": "Укажите номер карты: 5608 0249 2086 4370 917.", "spans": [["CARD", 21, 44]]}
+{"id": "synthetic-145", "source": "synthetic", "text": "Поле оплаты содержало 4629783933521670.", "spans": [["CARD", 22, 38]]}
+{"id": "synthetic-146", "source": "synthetic", "text": "Поле оплаты содержало 5909 9059 9524 3285.", "spans": [["CARD", 22, 41]]}
+{"id": "synthetic-147", "source": "synthetic", "text": "Поле оплаты содержало 4178-5005-5278-8876.", "spans": [["CARD", 22, 41]]}
+{"id": "synthetic-148", "source": "synthetic", "text": "Поле оплаты содержало 5671 1090 4377 8659.", "spans": [["CARD", 22, 41]]}
+{"id": "synthetic-149", "source": "synthetic", "text": "Поле оплаты содержало 4960584205282034.", "spans": [["CARD", 22, 38]]}
+{"id": "synthetic-150", "source": "synthetic", "text": "Поле оплаты содержало 5858 6428 4415 0020.", "spans": [["CARD", 22, 41]]}
+{"id": "synthetic-151", "source": "synthetic", "text": "Поле оплаты содержало 4084-4533-5627-6427-984.", "spans": [["CARD", 22, 45]]}
+{"id": "synthetic-152", "source": "synthetic", "text": "Поле оплаты содержало 5608 0249 2086 4370 917.", "spans": [["CARD", 22, 45]]}
+{"id": "synthetic-153", "source": "synthetic", "text": "Указан номер банковской карты 4629783933521670.", "spans": [["CARD", 30, 46]]}
+{"id": "synthetic-154", "source": "synthetic", "text": "Указан номер банковской карты 5909 9059 9524 3285.", "spans": [["CARD", 30, 49]]}
+{"id": "synthetic-155", "source": "synthetic", "text": "Указан номер банковской карты 4178-5005-5278-8876.", "spans": [["CARD", 30, 49]]}
+{"id": "synthetic-156", "source": "synthetic", "text": "Указан номер банковской карты 5671 1090 4377 8659.", "spans": [["CARD", 30, 49]]}
+{"id": "synthetic-157", "source": "synthetic", "text": "Указан номер банковской карты 4960584205282034.", "spans": [["CARD", 30, 46]]}
+{"id": "synthetic-158", "source": "synthetic", "text": "Указан номер банковской карты 5858 6428 4415 0020.", "spans": [["CARD", 30, 49]]}
+{"id": "synthetic-159", "source": "synthetic", "text": "Указан номер банковской карты 4084-4533-5627-6427-984.", "spans": [["CARD", 30, 53]]}
+{"id": "synthetic-160", "source": "synthetic", "text": "Указан номер банковской карты 5608 0249 2086 4370 917.", "spans": [["CARD", 30, 53]]}
+{"id": "synthetic-161", "source": "synthetic", "text": "Получатель ввёл «4629783933521670» в поле карты.", "spans": [["CARD", 17, 33]]}
+{"id": "synthetic-162", "source": "synthetic", "text": "Получатель ввёл «5909 9059 9524 3285» в поле карты.", "spans": [["CARD", 17, 36]]}
+{"id": "synthetic-163", "source": "synthetic", "text": "Получатель ввёл «4178-5005-5278-8876» в поле карты.", "spans": [["CARD", 17, 36]]}
+{"id": "synthetic-164", "source": "synthetic", "text": "Получатель ввёл «5671 1090 4377 8659» в поле карты.", "spans": [["CARD", 17, 36]]}
+{"id": "synthetic-165", "source": "synthetic", "text": "Получатель ввёл «4960584205282034» в поле карты.", "spans": [["CARD", 17, 33]]}
+{"id": "synthetic-166", "source": "synthetic", "text": "Получатель ввёл «5858 6428 4415 0020» в поле карты.", "spans": [["CARD", 17, 36]]}
+{"id": "synthetic-167", "source": "synthetic", "text": "Получатель ввёл «4084-4533-5627-6427-984» в поле карты.", "spans": [["CARD", 17, 40]]}
+{"id": "synthetic-168", "source": "synthetic", "text": "Получатель ввёл «5608 0249 2086 4370 917» в поле карты.", "spans": [["CARD", 17, 40]]}
+{"id": "synthetic-169", "source": "synthetic", "text": "В чеке напечатана карта 4629783933521670.", "spans": [["CARD", 24, 40]]}
+{"id": "synthetic-170", "source": "synthetic", "text": "В чеке напечатана карта 5909 9059 9524 3285.", "spans": [["CARD", 24, 43]]}
+{"id": "synthetic-171", "source": "synthetic", "text": "В чеке напечатана карта 4178-5005-5278-8876.", "spans": [["CARD", 24, 43]]}
+{"id": "synthetic-172", "source": "synthetic", "text": "В чеке напечатана карта 5671 1090 4377 8659.", "spans": [["CARD", 24, 43]]}
+{"id": "synthetic-173", "source": "synthetic", "text": "В чеке напечатана карта 4960584205282034.", "spans": [["CARD", 24, 40]]}
+{"id": "synthetic-174", "source": "synthetic", "text": "В чеке напечатана карта 5858 6428 4415 0020.", "spans": [["CARD", 24, 43]]}
+{"id": "synthetic-175", "source": "synthetic", "text": "В чеке напечатана карта 4084-4533-5627-6427-984.", "spans": [["CARD", 24, 47]]}
+{"id": "synthetic-176", "source": "synthetic", "text": "В чеке напечатана карта 5608 0249 2086 4370 917.", "spans": [["CARD", 24, 47]]}
+{"id": "synthetic-177", "source": "synthetic", "text": "Данные карты — 4629783933521670.", "spans": [["CARD", 15, 31]]}
+{"id": "synthetic-178", "source": "synthetic", "text": "Данные карты — 5909 9059 9524 3285.", "spans": [["CARD", 15, 34]]}
+{"id": "synthetic-179", "source": "synthetic", "text": "Данные карты — 4178-5005-5278-8876.", "spans": [["CARD", 15, 34]]}
+{"id": "synthetic-180", "source": "synthetic", "text": "Данные карты — 5671 1090 4377 8659.", "spans": [["CARD", 15, 34]]}
+{"id": "synthetic-181", "source": "synthetic", "text": "Данные карты — 4960584205282034.", "spans": [["CARD", 15, 31]]}
+{"id": "synthetic-182", "source": "synthetic", "text": "Данные карты — 5858 6428 4415 0020.", "spans": [["CARD", 15, 34]]}
+{"id": "synthetic-183", "source": "synthetic", "text": "Данные карты — 4084-4533-5627-6427-984.", "spans": [["CARD", 15, 38]]}
+{"id": "synthetic-184", "source": "synthetic", "text": "Данные карты — 5608 0249 2086 4370 917.", "spans": [["CARD", 15, 38]]}
+{"id": "synthetic-185", "source": "synthetic", "text": "Перевод оформлен на карту № 4629783933521670.", "spans": [["CARD", 28, 44]]}
+{"id": "synthetic-186", "source": "synthetic", "text": "Перевод оформлен на карту № 5909 9059 9524 3285.", "spans": [["CARD", 28, 47]]}
+{"id": "synthetic-187", "source": "synthetic", "text": "Перевод оформлен на карту № 4178-5005-5278-8876.", "spans": [["CARD", 28, 47]]}
+{"id": "synthetic-188", "source": "synthetic", "text": "Перевод оформлен на карту № 5671 1090 4377 8659.", "spans": [["CARD", 28, 47]]}
+{"id": "synthetic-189", "source": "synthetic", "text": "Перевод оформлен на карту № 4960584205282034.", "spans": [["CARD", 28, 44]]}
+{"id": "synthetic-190", "source": "synthetic", "text": "Перевод оформлен на карту № 5858 6428 4415 0020.", "spans": [["CARD", 28, 47]]}
+{"id": "synthetic-191", "source": "synthetic", "text": "Перевод оформлен на карту № 4084-4533-5627-6427-984.", "spans": [["CARD", 28, 51]]}
+{"id": "synthetic-192", "source": "synthetic", "text": "Перевод оформлен на карту № 5608 0249 2086 4370 917.", "spans": [["CARD", 28, 51]]}
+{"id": "synthetic-193", "source": "synthetic", "text": "Внесён СНИЛС 706-032-774 66.", "spans": [["SNILS", 13, 27]]}
+{"id": "synthetic-194", "source": "synthetic", "text": "Внесён СНИЛС 23216988067.", "spans": [["SNILS", 13, 24]]}
+{"id": "synthetic-195", "source": "synthetic", "text": "Внесён СНИЛС 434 068 224 63.", "spans": [["SNILS", 13, 27]]}
+{"id": "synthetic-196", "source": "synthetic", "text": "Внесён СНИЛС 148–622–015-57.", "spans": [["SNILS", 13, 27]]}
+{"id": "synthetic-197", "source": "synthetic", "text": "Внесён СНИЛС 317-515-430 56.", "spans": [["SNILS", 13, 27]]}
+{"id": "synthetic-198", "source": "synthetic", "text": "Внесён СНИЛС 11841562952.", "spans": [["SNILS", 13, 24]]}
+{"id": "synthetic-199", "source": "synthetic", "text": "Внесён СНИЛС 836 730 907 27.", "spans": [["SNILS", 13, 27]]}
+{"id": "synthetic-200", "source": "synthetic", "text": "Внесён СНИЛС 458–809–753-48.", "spans": [["SNILS", 13, 27]]}
+{"id": "synthetic-201", "source": "synthetic", "text": "СНИЛС: 706-032-774 66.", "spans": [["SNILS", 7, 21]]}
+{"id": "synthetic-202", "source": "synthetic", "text": "СНИЛС: 23216988067.", "spans": [["SNILS", 7, 18]]}
+{"id": "synthetic-203", "source": "synthetic", "text": "СНИЛС: 434 068 224 63.", "spans": [["SNILS", 7, 21]]}
+{"id": "synthetic-204", "source": "synthetic", "text": "СНИЛС: 148–622–015-57.", "spans": [["SNILS", 7, 21]]}
+{"id": "synthetic-205", "source": "synthetic", "text": "СНИЛС: 317-515-430 56.", "spans": [["SNILS", 7, 21]]}
+{"id": "synthetic-206", "source": "synthetic", "text": "СНИЛС: 11841562952.", "spans": [["SNILS", 7, 18]]}
+{"id": "synthetic-207", "source": "synthetic", "text": "СНИЛС: 836 730 907 27.", "spans": [["SNILS", 7, 21]]}
+{"id": "synthetic-208", "source": "synthetic", "text": "СНИЛС: 458–809–753-48.", "spans": [["SNILS", 7, 21]]}
+{"id": "synthetic-209", "source": "synthetic", "text": "В анкете указан страховой номер 706-032-774 66.", "spans": [["SNILS", 32, 46]]}
+{"id": "synthetic-210", "source": "synthetic", "text": "В анкете указан страховой номер 23216988067.", "spans": [["SNILS", 32, 43]]}
+{"id": "synthetic-211", "source": "synthetic", "text": "В анкете указан страховой номер 434 068 224 63.", "spans": [["SNILS", 32, 46]]}
+{"id": "synthetic-212", "source": "synthetic", "text": "В анкете указан страховой номер 148–622–015-57.", "spans": [["SNILS", 32, 46]]}
+{"id": "synthetic-213", "source": "synthetic", "text": "В анкете указан страховой номер 317-515-430 56.", "spans": [["SNILS", 32, 46]]}
+{"id": "synthetic-214", "source": "synthetic", "text": "В анкете указан страховой номер 11841562952.", "spans": [["SNILS", 32, 43]]}
+{"id": "synthetic-215", "source": "synthetic", "text": "В анкете указан страховой номер 836 730 907 27.", "spans": [["SNILS", 32, 46]]}
+{"id": "synthetic-216", "source": "synthetic", "text": "В анкете указан страховой номер 458–809–753-48.", "spans": [["SNILS", 32, 46]]}
+{"id": "synthetic-217", "source": "synthetic", "text": "СНИЛС № 706-032-774 66 сверили с выпиской.", "spans": [["SNILS", 8, 22]]}
+{"id": "synthetic-218", "source": "synthetic", "text": "СНИЛС № 23216988067 сверили с выпиской.", "spans": [["SNILS", 8, 19]]}
+{"id": "synthetic-219", "source": "synthetic", "text": "СНИЛС № 434 068 224 63 сверили с выпиской.", "spans": [["SNILS", 8, 22]]}
+{"id": "synthetic-220", "source": "synthetic", "text": "СНИЛС № 148–622–015-57 сверили с выпиской.", "spans": [["SNILS", 8, 22]]}
+{"id": "synthetic-221", "source": "synthetic", "text": "СНИЛС № 317-515-430 56 сверили с выпиской.", "spans": [["SNILS", 8, 22]]}
+{"id": "synthetic-222", "source": "synthetic", "text": "СНИЛС № 11841562952 сверили с выпиской.", "spans": [["SNILS", 8, 19]]}
+{"id": "synthetic-223", "source": "synthetic", "text": "СНИЛС № 836 730 907 27 сверили с выпиской.", "spans": [["SNILS", 8, 22]]}
+{"id": "synthetic-224", "source": "synthetic", "text": "СНИЛС № 458–809–753-48 сверили с выпиской.", "spans": [["SNILS", 8, 22]]}
+{"id": "synthetic-225", "source": "synthetic", "text": "Выгрузка содержит СНИЛС «706-032-774 66».", "spans": [["SNILS", 25, 39]]}
+{"id": "synthetic-226", "source": "synthetic", "text": "Выгрузка содержит СНИЛС «23216988067».", "spans": [["SNILS", 25, 36]]}
+{"id": "synthetic-227", "source": "synthetic", "text": "Выгрузка содержит СНИЛС «434 068 224 63».", "spans": [["SNILS", 25, 39]]}
+{"id": "synthetic-228", "source": "synthetic", "text": "Выгрузка содержит СНИЛС «148–622–015-57».", "spans": [["SNILS", 25, 39]]}
+{"id": "synthetic-229", "source": "synthetic", "text": "Выгрузка содержит СНИЛС «317-515-430 56».", "spans": [["SNILS", 25, 39]]}
+{"id": "synthetic-230", "source": "synthetic", "text": "Выгрузка содержит СНИЛС «11841562952».", "spans": [["SNILS", 25, 36]]}
+{"id": "synthetic-231", "source": "synthetic", "text": "Выгрузка содержит СНИЛС «836 730 907 27».", "spans": [["SNILS", 25, 39]]}
+{"id": "synthetic-232", "source": "synthetic", "text": "Выгрузка содержит СНИЛС «458–809–753-48».", "spans": [["SNILS", 25, 39]]}
+{"id": "synthetic-233", "source": "synthetic", "text": "В карточке сотрудника СНИЛС — 706-032-774 66.", "spans": [["SNILS", 30, 44]]}
+{"id": "synthetic-234", "source": "synthetic", "text": "В карточке сотрудника СНИЛС — 23216988067.", "spans": [["SNILS", 30, 41]]}
+{"id": "synthetic-235", "source": "synthetic", "text": "В карточке сотрудника СНИЛС — 434 068 224 63.", "spans": [["SNILS", 30, 44]]}
+{"id": "synthetic-236", "source": "synthetic", "text": "В карточке сотрудника СНИЛС — 148–622–015-57.", "spans": [["SNILS", 30, 44]]}
+{"id": "synthetic-237", "source": "synthetic", "text": "В карточке сотрудника СНИЛС — 317-515-430 56.", "spans": [["SNILS", 30, 44]]}
+{"id": "synthetic-238", "source": "synthetic", "text": "В карточке сотрудника СНИЛС — 11841562952.", "spans": [["SNILS", 30, 41]]}
+{"id": "synthetic-239", "source": "synthetic", "text": "В карточке сотрудника СНИЛС — 836 730 907 27.", "spans": [["SNILS", 30, 44]]}
+{"id": "synthetic-240", "source": "synthetic", "text": "В карточке сотрудника СНИЛС — 458–809–753-48.", "spans": [["SNILS", 30, 44]]}
+{"id": "synthetic-241", "source": "synthetic", "text": "В поле «СНИЛС» записано 706-032-774 66.", "spans": [["SNILS", 24, 38]]}
+{"id": "synthetic-242", "source": "synthetic", "text": "В поле «СНИЛС» записано 23216988067.", "spans": [["SNILS", 24, 35]]}
+{"id": "synthetic-243", "source": "synthetic", "text": "В поле «СНИЛС» записано 434 068 224 63.", "spans": [["SNILS", 24, 38]]}
+{"id": "synthetic-244", "source": "synthetic", "text": "В поле «СНИЛС» записано 148–622–015-57.", "spans": [["SNILS", 24, 38]]}
+{"id": "synthetic-245", "source": "synthetic", "text": "В поле «СНИЛС» записано 317-515-430 56.", "spans": [["SNILS", 24, 38]]}
+{"id": "synthetic-246", "source": "synthetic", "text": "В поле «СНИЛС» записано 11841562952.", "spans": [["SNILS", 24, 35]]}
+{"id": "synthetic-247", "source": "synthetic", "text": "В поле «СНИЛС» записано 836 730 907 27.", "spans": [["SNILS", 24, 38]]}
+{"id": "synthetic-248", "source": "synthetic", "text": "В поле «СНИЛС» записано 458–809–753-48.", "spans": [["SNILS", 24, 38]]}
+{"id": "synthetic-249", "source": "synthetic", "text": "СНИЛС сотрудника 706-032-774 66 прикреплён к заявке.", "spans": [["SNILS", 17, 31]]}
+{"id": "synthetic-250", "source": "synthetic", "text": "СНИЛС сотрудника 23216988067 прикреплён к заявке.", "spans": [["SNILS", 17, 28]]}
+{"id": "synthetic-251", "source": "synthetic", "text": "СНИЛС сотрудника 434 068 224 63 прикреплён к заявке.", "spans": [["SNILS", 17, 31]]}
+{"id": "synthetic-252", "source": "synthetic", "text": "СНИЛС сотрудника 148–622–015-57 прикреплён к заявке.", "spans": [["SNILS", 17, 31]]}
+{"id": "synthetic-253", "source": "synthetic", "text": "СНИЛС сотрудника 317-515-430 56 прикреплён к заявке.", "spans": [["SNILS", 17, 31]]}
+{"id": "synthetic-254", "source": "synthetic", "text": "СНИЛС сотрудника 11841562952 прикреплён к заявке.", "spans": [["SNILS", 17, 28]]}
+{"id": "synthetic-255", "source": "synthetic", "text": "СНИЛС сотрудника 836 730 907 27 прикреплён к заявке.", "spans": [["SNILS", 17, 31]]}
+{"id": "synthetic-256", "source": "synthetic", "text": "СНИЛС сотрудника 458–809–753-48 прикреплён к заявке.", "spans": [["SNILS", 17, 31]]}
+{"id": "synthetic-257", "source": "synthetic", "text": "Страница опубликована по адресу https://portal.example/feedback?q=1.", "spans": [["URL", 32, 67]]}
+{"id": "synthetic-258", "source": "synthetic", "text": "Страница опубликована по адресу http://help.example:8080/start.", "spans": [["URL", 32, 62]]}
+{"id": "synthetic-259", "source": "synthetic", "text": "Страница опубликована по адресу ftp://files.example/upload.", "spans": [["URL", 32, 58]]}
+{"id": "synthetic-260", "source": "synthetic", "text": "Страница опубликована по адресу www.support.example/contacts.", "spans": [["URL", 32, 60]]}
+{"id": "synthetic-261", "source": "synthetic", "text": "Страница опубликована по адресу https://личный.рф/анкета.", "spans": [["URL", 32, 56]]}
+{"id": "synthetic-262", "source": "synthetic", "text": "Страница опубликована по адресу kb.example/guide#step.", "spans": [["URL", 32, 53]]}
+{"id": "synthetic-263", "source": "synthetic", "text": "Страница опубликована по адресу https://info.example/id/4111111111111111.", "spans": [["URL", 32, 72]]}
+{"id": "synthetic-264", "source": "synthetic", "text": "Страница опубликована по адресу https://docs.example/item_(2026).", "spans": [["URL", 32, 64]]}
+{"id": "synthetic-265", "source": "synthetic", "text": "Источник (https://portal.example/feedback?q=1).", "spans": [["URL", 10, 45]]}
+{"id": "synthetic-266", "source": "synthetic", "text": "Источник (http://help.example:8080/start).", "spans": [["URL", 10, 40]]}
+{"id": "synthetic-267", "source": "synthetic", "text": "Источник (ftp://files.example/upload).", "spans": [["URL", 10, 36]]}
+{"id": "synthetic-268", "source": "synthetic", "text": "Источник (www.support.example/contacts).", "spans": [["URL", 10, 38]]}
+{"id": "synthetic-269", "source": "synthetic", "text": "Источник (https://личный.рф/анкета).", "spans": [["URL", 10, 34]]}
+{"id": "synthetic-270", "source": "synthetic", "text": "Источник (kb.example/guide#step).", "spans": [["URL", 10, 31]]}
+{"id": "synthetic-271", "source": "synthetic", "text": "Источник (https://info.example/id/4111111111111111).", "spans": [["URL", 10, 50]]}
+{"id": "synthetic-272", "source": "synthetic", "text": "Источник (https://docs.example/item_(2026)).", "spans": [["URL", 10, 42]]}
+{"id": "synthetic-273", "source": "synthetic", "text": "Форма обратной связи доступна по ссылке «https://portal.example/feedback?q=1».", "spans": [["URL", 41, 76]]}
+{"id": "synthetic-274", "source": "synthetic", "text": "Форма обратной связи доступна по ссылке «http://help.example:8080/start».", "spans": [["URL", 41, 71]]}
+{"id": "synthetic-275", "source": "synthetic", "text": "Форма обратной связи доступна по ссылке «ftp://files.example/upload».", "spans": [["URL", 41, 67]]}
+{"id": "synthetic-276", "source": "synthetic", "text": "Форма обратной связи доступна по ссылке «www.support.example/contacts».", "spans": [["URL", 41, 69]]}
+{"id": "synthetic-277", "source": "synthetic", "text": "Форма обратной связи доступна по ссылке «https://личный.рф/анкета».", "spans": [["URL", 41, 65]]}
+{"id": "synthetic-278", "source": "synthetic", "text": "Форма обратной связи доступна по ссылке «kb.example/guide#step».", "spans": [["URL", 41, 62]]}
+{"id": "synthetic-279", "source": "synthetic", "text": "Форма обратной связи доступна по ссылке «https://info.example/id/4111111111111111».", "spans": [["URL", 41, 81]]}
+{"id": "synthetic-280", "source": "synthetic", "text": "Форма обратной связи доступна по ссылке «https://docs.example/item_(2026)».", "spans": [["URL", 41, 73]]}
+{"id": "synthetic-281", "source": "synthetic", "text": "В инструкции указали https://portal.example/feedback?q=1.", "spans": [["URL", 21, 56]]}
+{"id": "synthetic-282", "source": "synthetic", "text": "В инструкции указали http://help.example:8080/start.", "spans": [["URL", 21, 51]]}
+{"id": "synthetic-283", "source": "synthetic", "text": "В инструкции указали ftp://files.example/upload.", "spans": [["URL", 21, 47]]}
+{"id": "synthetic-284", "source": "synthetic", "text": "В инструкции указали www.support.example/contacts.", "spans": [["URL", 21, 49]]}
+{"id": "synthetic-285", "source": "synthetic", "text": "В инструкции указали https://личный.рф/анкета.", "spans": [["URL", 21, 45]]}
+{"id": "synthetic-286", "source": "synthetic", "text": "В инструкции указали kb.example/guide#step.", "spans": [["URL", 21, 42]]}
+{"id": "synthetic-287", "source": "synthetic", "text": "В инструкции указали https://info.example/id/4111111111111111.", "spans": [["URL", 21, 61]]}
+{"id": "synthetic-288", "source": "synthetic", "text": "В инструкции указали https://docs.example/item_(2026).", "spans": [["URL", 21, 53]]}
+{"id": "synthetic-289", "source": "synthetic", "text": "В поле сайта введено https://portal.example/feedback?q=1;", "spans": [["URL", 21, 56]]}
+{"id": "synthetic-290", "source": "synthetic", "text": "В поле сайта введено http://help.example:8080/start;", "spans": [["URL", 21, 51]]}
+{"id": "synthetic-291", "source": "synthetic", "text": "В поле сайта введено ftp://files.example/upload;", "spans": [["URL", 21, 47]]}
+{"id": "synthetic-292", "source": "synthetic", "text": "В поле сайта введено www.support.example/contacts;", "spans": [["URL", 21, 49]]}
+{"id": "synthetic-293", "source": "synthetic", "text": "В поле сайта введено https://личный.рф/анкета;", "spans": [["URL", 21, 45]]}
+{"id": "synthetic-294", "source": "synthetic", "text": "В поле сайта введено kb.example/guide#step;", "spans": [["URL", 21, 42]]}
+{"id": "synthetic-295", "source": "synthetic", "text": "В поле сайта введено https://info.example/id/4111111111111111;", "spans": [["URL", 21, 61]]}
+{"id": "synthetic-296", "source": "synthetic", "text": "В поле сайта введено https://docs.example/item_(2026);", "spans": [["URL", 21, 53]]}
+{"id": "synthetic-297", "source": "synthetic", "text": "Веб-страница — https://portal.example/feedback?q=1.", "spans": [["URL", 15, 50]]}
+{"id": "synthetic-298", "source": "synthetic", "text": "Веб-страница — http://help.example:8080/start.", "spans": [["URL", 15, 45]]}
+{"id": "synthetic-299", "source": "synthetic", "text": "Веб-страница — ftp://files.example/upload.", "spans": [["URL", 15, 41]]}
+{"id": "synthetic-300", "source": "synthetic", "text": "Веб-страница — www.support.example/contacts.", "spans": [["URL", 15, 43]]}
+{"id": "synthetic-301", "source": "synthetic", "text": "Веб-страница — https://личный.рф/анкета.", "spans": [["URL", 15, 39]]}
+{"id": "synthetic-302", "source": "synthetic", "text": "Веб-страница — kb.example/guide#step.", "spans": [["URL", 15, 36]]}
+{"id": "synthetic-303", "source": "synthetic", "text": "Веб-страница — https://info.example/id/4111111111111111.", "spans": [["URL", 15, 55]]}
+{"id": "synthetic-304", "source": "synthetic", "text": "Веб-страница — https://docs.example/item_(2026).", "spans": [["URL", 15, 47]]}
+{"id": "synthetic-305", "source": "synthetic", "text": "Ссылка из письма: https://portal.example/feedback?q=1.", "spans": [["URL", 18, 53]]}
+{"id": "synthetic-306", "source": "synthetic", "text": "Ссылка из письма: http://help.example:8080/start.", "spans": [["URL", 18, 48]]}
+{"id": "synthetic-307", "source": "synthetic", "text": "Ссылка из письма: ftp://files.example/upload.", "spans": [["URL", 18, 44]]}
+{"id": "synthetic-308", "source": "synthetic", "text": "Ссылка из письма: www.support.example/contacts.", "spans": [["URL", 18, 46]]}
+{"id": "synthetic-309", "source": "synthetic", "text": "Ссылка из письма: https://личный.рф/анкета.", "spans": [["URL", 18, 42]]}
+{"id": "synthetic-310", "source": "synthetic", "text": "Ссылка из письма: kb.example/guide#step.", "spans": [["URL", 18, 39]]}
+{"id": "synthetic-311", "source": "synthetic", "text": "Ссылка из письма: https://info.example/id/4111111111111111.", "spans": [["URL", 18, 58]]}
+{"id": "synthetic-312", "source": "synthetic", "text": "Ссылка из письма: https://docs.example/item_(2026).", "spans": [["URL", 18, 50]]}
+{"id": "synthetic-313", "source": "synthetic", "text": "Материал доступен на https://portal.example/feedback?q=1!", "spans": [["URL", 21, 56]]}
+{"id": "synthetic-314", "source": "synthetic", "text": "Материал доступен на http://help.example:8080/start!", "spans": [["URL", 21, 51]]}
+{"id": "synthetic-315", "source": "synthetic", "text": "Материал доступен на ftp://files.example/upload!", "spans": [["URL", 21, 47]]}
+{"id": "synthetic-316", "source": "synthetic", "text": "Материал доступен на www.support.example/contacts!", "spans": [["URL", 21, 49]]}
+{"id": "synthetic-317", "source": "synthetic", "text": "Материал доступен на https://личный.рф/анкета!", "spans": [["URL", 21, 45]]}
+{"id": "synthetic-318", "source": "synthetic", "text": "Материал доступен на kb.example/guide#step!", "spans": [["URL", 21, 42]]}
+{"id": "synthetic-319", "source": "synthetic", "text": "Материал доступен на https://info.example/id/4111111111111111!", "spans": [["URL", 21, 61]]}
+{"id": "synthetic-320", "source": "synthetic", "text": "Материал доступен на https://docs.example/item_(2026)!", "spans": [["URL", 21, 53]]}
+{"id": "synthetic-321", "source": "synthetic", "text": "Телефон: +7 (916) 000-00-26.", "spans": [["PHONE", 9, 27]]}
+{"id": "synthetic-322", "source": "synthetic", "text": "Телефон: 8 812 000 01 75.", "spans": [["PHONE", 9, 24]]}
+{"id": "synthetic-323", "source": "synthetic", "text": "Телефон: (495) 000-02-63.", "spans": [["PHONE", 9, 24]]}
+{"id": "synthetic-324", "source": "synthetic", "text": "Телефон: +7-846-000-03-23.", "spans": [["PHONE", 9, 25]]}
+{"id": "synthetic-325", "source": "synthetic", "text": "Телефон: +7 (383) 000-04-33.", "spans": [["PHONE", 9, 27]]}
+{"id": "synthetic-326", "source": "synthetic", "text": "Телефон: 8 423 000 05 40.", "spans": [["PHONE", 9, 24]]}
+{"id": "synthetic-327", "source": "synthetic", "text": "Телефон: (999) 000-06-82.", "spans": [["PHONE", 9, 24]]}
+{"id": "synthetic-328", "source": "synthetic", "text": "Телефон: +7-800-000-07-90.", "spans": [["PHONE", 9, 25]]}
+{"id": "synthetic-329", "source": "synthetic", "text": "Контактный телефон +7 (916) 000-00-26 доступен в рабочие часы.", "spans": [["PHONE", 19, 37]]}
+{"id": "synthetic-330", "source": "synthetic", "text": "Контактный телефон 8 812 000 01 75 доступен в рабочие часы.", "spans": [["PHONE", 19, 34]]}
+{"id": "synthetic-331", "source": "synthetic", "text": "Контактный телефон (495) 000-02-63 доступен в рабочие часы.", "spans": [["PHONE", 19, 34]]}
+{"id": "synthetic-332", "source": "synthetic", "text": "Контактный телефон +7-846-000-03-23 доступен в рабочие часы.", "spans": [["PHONE", 19, 35]]}
+{"id": "synthetic-333", "source": "synthetic", "text": "Контактный телефон +7 (383) 000-04-33 доступен в рабочие часы.", "spans": [["PHONE", 19, 37]]}
+{"id": "synthetic-334", "source": "synthetic", "text": "Контактный телефон 8 423 000 05 40 доступен в рабочие часы.", "spans": [["PHONE", 19, 34]]}
+{"id": "synthetic-335", "source": "synthetic", "text": "Контактный телефон (999) 000-06-82 доступен в рабочие часы.", "spans": [["PHONE", 19, 34]]}
+{"id": "synthetic-336", "source": "synthetic", "text": "Контактный телефон +7-800-000-07-90 доступен в рабочие часы.", "spans": [["PHONE", 19, 35]]}
+{"id": "synthetic-337", "source": "synthetic", "text": "Звоните по номеру +7 (916) 000-00-26.", "spans": [["PHONE", 18, 36]]}
+{"id": "synthetic-338", "source": "synthetic", "text": "Звоните по номеру 8 812 000 01 75.", "spans": [["PHONE", 18, 33]]}
+{"id": "synthetic-339", "source": "synthetic", "text": "Звоните по номеру (495) 000-02-63.", "spans": [["PHONE", 18, 33]]}
+{"id": "synthetic-340", "source": "synthetic", "text": "Звоните по номеру +7-846-000-03-23.", "spans": [["PHONE", 18, 34]]}
+{"id": "synthetic-341", "source": "synthetic", "text": "Звоните по номеру +7 (383) 000-04-33.", "spans": [["PHONE", 18, 36]]}
+{"id": "synthetic-342", "source": "synthetic", "text": "Звоните по номеру 8 423 000 05 40.", "spans": [["PHONE", 18, 33]]}
+{"id": "synthetic-343", "source": "synthetic", "text": "Звоните по номеру (999) 000-06-82.", "spans": [["PHONE", 18, 33]]}
+{"id": "synthetic-344", "source": "synthetic", "text": "Звоните по номеру +7-800-000-07-90.", "spans": [["PHONE", 18, 34]]}
+{"id": "synthetic-345", "source": "synthetic", "text": "Мы получили телефон +7 (916) 000-00-26 из анкеты.", "spans": [["PHONE", 20, 38]]}
+{"id": "synthetic-346", "source": "synthetic", "text": "Мы получили телефон 8 812 000 01 75 из анкеты.", "spans": [["PHONE", 20, 35]]}
+{"id": "synthetic-347", "source": "synthetic", "text": "Мы получили телефон (495) 000-02-63 из анкеты.", "spans": [["PHONE", 20, 35]]}
+{"id": "synthetic-348", "source": "synthetic", "text": "Мы получили телефон +7-846-000-03-23 из анкеты.", "spans": [["PHONE", 20, 36]]}
+{"id": "synthetic-349", "source": "synthetic", "text": "Мы получили телефон +7 (383) 000-04-33 из анкеты.", "spans": [["PHONE", 20, 38]]}
+{"id": "synthetic-350", "source": "synthetic", "text": "Мы получили телефон 8 423 000 05 40 из анкеты.", "spans": [["PHONE", 20, 35]]}
+{"id": "synthetic-351", "source": "synthetic", "text": "Мы получили телефон (999) 000-06-82 из анкеты.", "spans": [["PHONE", 20, 35]]}
+{"id": "synthetic-352", "source": "synthetic", "text": "Мы получили телефон +7-800-000-07-90 из анкеты.", "spans": [["PHONE", 20, 36]]}
+{"id": "synthetic-353", "source": "synthetic", "text": "В поле «Телефон» оставили +7 (916) 000-00-26.", "spans": [["PHONE", 26, 44]]}
+{"id": "synthetic-354", "source": "synthetic", "text": "В поле «Телефон» оставили 8 812 000 01 75.", "spans": [["PHONE", 26, 41]]}
+{"id": "synthetic-355", "source": "synthetic", "text": "В поле «Телефон» оставили (495) 000-02-63.", "spans": [["PHONE", 26, 41]]}
+{"id": "synthetic-356", "source": "synthetic", "text": "В поле «Телефон» оставили +7-846-000-03-23.", "spans": [["PHONE", 26, 42]]}
+{"id": "synthetic-357", "source": "synthetic", "text": "В поле «Телефон» оставили +7 (383) 000-04-33.", "spans": [["PHONE", 26, 44]]}
+{"id": "synthetic-358", "source": "synthetic", "text": "В поле «Телефон» оставили 8 423 000 05 40.", "spans": [["PHONE", 26, 41]]}
+{"id": "synthetic-359", "source": "synthetic", "text": "В поле «Телефон» оставили (999) 000-06-82.", "spans": [["PHONE", 26, 41]]}
+{"id": "synthetic-360", "source": "synthetic", "text": "В поле «Телефон» оставили +7-800-000-07-90.", "spans": [["PHONE", 26, 42]]}
+{"id": "synthetic-361", "source": "synthetic", "text": "Телефон отдела — +7 (916) 000-00-26.", "spans": [["PHONE", 17, 35]]}
+{"id": "synthetic-362", "source": "synthetic", "text": "Телефон отдела — 8 812 000 01 75.", "spans": [["PHONE", 17, 32]]}
+{"id": "synthetic-363", "source": "synthetic", "text": "Телефон отдела — (495) 000-02-63.", "spans": [["PHONE", 17, 32]]}
+{"id": "synthetic-364", "source": "synthetic", "text": "Телефон отдела — +7-846-000-03-23.", "spans": [["PHONE", 17, 33]]}
+{"id": "synthetic-365", "source": "synthetic", "text": "Телефон отдела — +7 (383) 000-04-33.", "spans": [["PHONE", 17, 35]]}
+{"id": "synthetic-366", "source": "synthetic", "text": "Телефон отдела — 8 423 000 05 40.", "spans": [["PHONE", 17, 32]]}
+{"id": "synthetic-367", "source": "synthetic", "text": "Телефон отдела — (999) 000-06-82.", "spans": [["PHONE", 17, 32]]}
+{"id": "synthetic-368", "source": "synthetic", "text": "Телефон отдела — +7-800-000-07-90.", "spans": [["PHONE", 17, 33]]}
+{"id": "synthetic-369", "source": "synthetic", "text": "Для звонка используйте +7 (916) 000-00-26.", "spans": [["PHONE", 23, 41]]}
+{"id": "synthetic-370", "source": "synthetic", "text": "Для звонка используйте 8 812 000 01 75.", "spans": [["PHONE", 23, 38]]}
+{"id": "synthetic-371", "source": "synthetic", "text": "Для звонка используйте (495) 000-02-63.", "spans": [["PHONE", 23, 38]]}
+{"id": "synthetic-372", "source": "synthetic", "text": "Для звонка используйте +7-846-000-03-23.", "spans": [["PHONE", 23, 39]]}
+{"id": "synthetic-373", "source": "synthetic", "text": "Для звонка используйте +7 (383) 000-04-33.", "spans": [["PHONE", 23, 41]]}
+{"id": "synthetic-374", "source": "synthetic", "text": "Для звонка используйте 8 423 000 05 40.", "spans": [["PHONE", 23, 38]]}
+{"id": "synthetic-375", "source": "synthetic", "text": "Для звонка используйте (999) 000-06-82.", "spans": [["PHONE", 23, 38]]}
+{"id": "synthetic-376", "source": "synthetic", "text": "Для звонка используйте +7-800-000-07-90.", "spans": [["PHONE", 23, 39]]}
+{"id": "synthetic-377", "source": "synthetic", "text": "Номер телефона «+7 (916) 000-00-26» внесли в заявку.", "spans": [["PHONE", 16, 34]]}
+{"id": "synthetic-378", "source": "synthetic", "text": "Номер телефона «8 812 000 01 75» внесли в заявку.", "spans": [["PHONE", 16, 31]]}
+{"id": "synthetic-379", "source": "synthetic", "text": "Номер телефона «(495) 000-02-63» внесли в заявку.", "spans": [["PHONE", 16, 31]]}
+{"id": "synthetic-380", "source": "synthetic", "text": "Номер телефона «+7-846-000-03-23» внесли в заявку.", "spans": [["PHONE", 16, 32]]}
+{"id": "synthetic-381", "source": "synthetic", "text": "Номер телефона «+7 (383) 000-04-33» внесли в заявку.", "spans": [["PHONE", 16, 34]]}
+{"id": "synthetic-382", "source": "synthetic", "text": "Номер телефона «8 423 000 05 40» внесли в заявку.", "spans": [["PHONE", 16, 31]]}
+{"id": "synthetic-383", "source": "synthetic", "text": "Номер телефона «(999) 000-06-82» внесли в заявку.", "spans": [["PHONE", 16, 31]]}
+{"id": "synthetic-384", "source": "synthetic", "text": "Номер телефона «+7-800-000-07-90» внесли в заявку.", "spans": [["PHONE", 16, 32]]}
+{"id": "synthetic-385", "source": "synthetic", "text": "В приложении свидетельство о браке IV-МР № 772020.", "spans": [["MARRIAGE", 35, 49]]}
+{"id": "synthetic-386", "source": "synthetic", "text": "В приложении свидетельство о браке II-АБ 676428.", "spans": [["MARRIAGE", 35, 47]]}
+{"id": "synthetic-387", "source": "synthetic", "text": "В приложении свидетельство о браке X-ЮК N 271107.", "spans": [["MARRIAGE", 35, 48]]}
+{"id": "synthetic-388", "source": "synthetic", "text": "В приложении свидетельство о браке VI–УС №322915.", "spans": [["MARRIAGE", 35, 48]]}
+{"id": "synthetic-389", "source": "synthetic", "text": "В приложении свидетельство о браке IV-МР № 545151.", "spans": [["MARRIAGE", 35, 49]]}
+{"id": "synthetic-390", "source": "synthetic", "text": "В приложении свидетельство о браке II-АБ 114730.", "spans": [["MARRIAGE", 35, 47]]}
+{"id": "synthetic-391", "source": "synthetic", "text": "В приложении свидетельство о браке X-ЮК N 131363.", "spans": [["MARRIAGE", 35, 48]]}
+{"id": "synthetic-392", "source": "synthetic", "text": "В приложении свидетельство о браке VI–УС №550103.", "spans": [["MARRIAGE", 35, 48]]}
+{"id": "synthetic-393", "source": "synthetic", "text": "В графе «Свидетельство о браке» указано IV-МР № 772020.", "spans": [["MARRIAGE", 40, 54]]}
+{"id": "synthetic-394", "source": "synthetic", "text": "В графе «Свидетельство о браке» указано II-АБ 676428.", "spans": [["MARRIAGE", 40, 52]]}
+{"id": "synthetic-395", "source": "synthetic", "text": "В графе «Свидетельство о браке» указано X-ЮК N 271107.", "spans": [["MARRIAGE", 40, 53]]}
+{"id": "synthetic-396", "source": "synthetic", "text": "В графе «Свидетельство о браке» указано VI–УС №322915.", "spans": [["MARRIAGE", 40, 53]]}
+{"id": "synthetic-397", "source": "synthetic", "text": "В графе «Свидетельство о браке» указано IV-МР № 545151.", "spans": [["MARRIAGE", 40, 54]]}
+{"id": "synthetic-398", "source": "synthetic", "text": "В графе «Свидетельство о браке» указано II-АБ 114730.", "spans": [["MARRIAGE", 40, 52]]}
+{"id": "synthetic-399", "source": "synthetic", "text": "В графе «Свидетельство о браке» указано X-ЮК N 131363.", "spans": [["MARRIAGE", 40, 53]]}
+{"id": "synthetic-400", "source": "synthetic", "text": "В графе «Свидетельство о браке» указано VI–УС №550103.", "spans": [["MARRIAGE", 40, 53]]}
+{"id": "synthetic-401", "source": "synthetic", "text": "В ЗАГС передали документ IV-МР № 772020.", "spans": [["MARRIAGE", 25, 39]]}
+{"id": "synthetic-402", "source": "synthetic", "text": "В ЗАГС передали документ II-АБ 676428.", "spans": [["MARRIAGE", 25, 37]]}
+{"id": "synthetic-403", "source": "synthetic", "text": "В ЗАГС передали документ X-ЮК N 271107.", "spans": [["MARRIAGE", 25, 38]]}
+{"id": "synthetic-404", "source": "synthetic", "text": "В ЗАГС передали документ VI–УС №322915.", "spans": [["MARRIAGE", 25, 38]]}
+{"id": "synthetic-405", "source": "synthetic", "text": "В ЗАГС передали документ IV-МР № 545151.", "spans": [["MARRIAGE", 25, 39]]}
+{"id": "synthetic-406", "source": "synthetic", "text": "В ЗАГС передали документ II-АБ 114730.", "spans": [["MARRIAGE", 25, 37]]}
+{"id": "synthetic-407", "source": "synthetic", "text": "В ЗАГС передали документ X-ЮК N 131363.", "spans": [["MARRIAGE", 25, 38]]}
+{"id": "synthetic-408", "source": "synthetic", "text": "В ЗАГС передали документ VI–УС №550103.", "spans": [["MARRIAGE", 25, 38]]}
+{"id": "synthetic-409", "source": "synthetic", "text": "Для подтверждения брака представлен документ IV-МР № 772020.", "spans": [["MARRIAGE", 45, 59]]}
+{"id": "synthetic-410", "source": "synthetic", "text": "Для подтверждения брака представлен документ II-АБ 676428.", "spans": [["MARRIAGE", 45, 57]]}
+{"id": "synthetic-411", "source": "synthetic", "text": "Для подтверждения брака представлен документ X-ЮК N 271107.", "spans": [["MARRIAGE", 45, 58]]}
+{"id": "synthetic-412", "source": "synthetic", "text": "Для подтверждения брака представлен документ VI–УС №322915.", "spans": [["MARRIAGE", 45, 58]]}
+{"id": "synthetic-413", "source": "synthetic", "text": "Для подтверждения брака представлен документ IV-МР № 545151.", "spans": [["MARRIAGE", 45, 59]]}
+{"id": "synthetic-414", "source": "synthetic", "text": "Для подтверждения брака представлен документ II-АБ 114730.", "spans": [["MARRIAGE", 45, 57]]}
+{"id": "synthetic-415", "source": "synthetic", "text": "Для подтверждения брака представлен документ X-ЮК N 131363.", "spans": [["MARRIAGE", 45, 58]]}
+{"id": "synthetic-416", "source": "synthetic", "text": "Для подтверждения брака представлен документ VI–УС №550103.", "spans": [["MARRIAGE", 45, 58]]}
+{"id": "synthetic-417", "source": "synthetic", "text": "Свидетельство о заключении брака: IV-МР № 772020.", "spans": [["MARRIAGE", 34, 48]]}
+{"id": "synthetic-418", "source": "synthetic", "text": "Свидетельство о заключении брака: II-АБ 676428.", "spans": [["MARRIAGE", 34, 46]]}
+{"id": "synthetic-419", "source": "synthetic", "text": "Свидетельство о заключении брака: X-ЮК N 271107.", "spans": [["MARRIAGE", 34, 47]]}
+{"id": "synthetic-420", "source": "synthetic", "text": "Свидетельство о заключении брака: VI–УС №322915.", "spans": [["MARRIAGE", 34, 47]]}
+{"id": "synthetic-421", "source": "synthetic", "text": "Свидетельство о заключении брака: IV-МР № 545151.", "spans": [["MARRIAGE", 34, 48]]}
+{"id": "synthetic-422", "source": "synthetic", "text": "Свидетельство о заключении брака: II-АБ 114730.", "spans": [["MARRIAGE", 34, 46]]}
+{"id": "synthetic-423", "source": "synthetic", "text": "Свидетельство о заключении брака: X-ЮК N 131363.", "spans": [["MARRIAGE", 34, 47]]}
+{"id": "synthetic-424", "source": "synthetic", "text": "Свидетельство о заключении брака: VI–УС №550103.", "spans": [["MARRIAGE", 34, 47]]}
+{"id": "synthetic-425", "source": "synthetic", "text": "В записи о браке указан реквизит IV-МР № 772020.", "spans": [["MARRIAGE", 33, 47]]}
+{"id": "synthetic-426", "source": "synthetic", "text": "В записи о браке указан реквизит II-АБ 676428.", "spans": [["MARRIAGE", 33, 45]]}
+{"id": "synthetic-427", "source": "synthetic", "text": "В записи о браке указан реквизит X-ЮК N 271107.", "spans": [["MARRIAGE", 33, 46]]}
+{"id": "synthetic-428", "source": "synthetic", "text": "В записи о браке указан реквизит VI–УС №322915.", "spans": [["MARRIAGE", 33, 46]]}
+{"id": "synthetic-429", "source": "synthetic", "text": "В записи о браке указан реквизит IV-МР № 545151.", "spans": [["MARRIAGE", 33, 47]]}
+{"id": "synthetic-430", "source": "synthetic", "text": "В записи о браке указан реквизит II-АБ 114730.", "spans": [["MARRIAGE", 33, 45]]}
+{"id": "synthetic-431", "source": "synthetic", "text": "В записи о браке указан реквизит X-ЮК N 131363.", "spans": [["MARRIAGE", 33, 46]]}
+{"id": "synthetic-432", "source": "synthetic", "text": "В записи о браке указан реквизит VI–УС №550103.", "spans": [["MARRIAGE", 33, 46]]}
+{"id": "synthetic-433", "source": "synthetic", "text": "ЗАГС выдал свидетельство IV-МР № 772020.", "spans": [["MARRIAGE", 25, 39]]}
+{"id": "synthetic-434", "source": "synthetic", "text": "ЗАГС выдал свидетельство II-АБ 676428.", "spans": [["MARRIAGE", 25, 37]]}
+{"id": "synthetic-435", "source": "synthetic", "text": "ЗАГС выдал свидетельство X-ЮК N 271107.", "spans": [["MARRIAGE", 25, 38]]}
+{"id": "synthetic-436", "source": "synthetic", "text": "ЗАГС выдал свидетельство VI–УС №322915.", "spans": [["MARRIAGE", 25, 38]]}
+{"id": "synthetic-437", "source": "synthetic", "text": "ЗАГС выдал свидетельство IV-МР № 545151.", "spans": [["MARRIAGE", 25, 39]]}
+{"id": "synthetic-438", "source": "synthetic", "text": "ЗАГС выдал свидетельство II-АБ 114730.", "spans": [["MARRIAGE", 25, 37]]}
+{"id": "synthetic-439", "source": "synthetic", "text": "ЗАГС выдал свидетельство X-ЮК N 131363.", "spans": [["MARRIAGE", 25, 38]]}
+{"id": "synthetic-440", "source": "synthetic", "text": "ЗАГС выдал свидетельство VI–УС №550103.", "spans": [["MARRIAGE", 25, 38]]}
+{"id": "synthetic-441", "source": "synthetic", "text": "Номер свидетельства о браке — IV-МР № 772020.", "spans": [["MARRIAGE", 30, 44]]}
+{"id": "synthetic-442", "source": "synthetic", "text": "Номер свидетельства о браке — II-АБ 676428.", "spans": [["MARRIAGE", 30, 42]]}
+{"id": "synthetic-443", "source": "synthetic", "text": "Номер свидетельства о браке — X-ЮК N 271107.", "spans": [["MARRIAGE", 30, 43]]}
+{"id": "synthetic-444", "source": "synthetic", "text": "Номер свидетельства о браке — VI–УС №322915.", "spans": [["MARRIAGE", 30, 43]]}
+{"id": "synthetic-445", "source": "synthetic", "text": "Номер свидетельства о браке — IV-МР № 545151.", "spans": [["MARRIAGE", 30, 44]]}
+{"id": "synthetic-446", "source": "synthetic", "text": "Номер свидетельства о браке — II-АБ 114730.", "spans": [["MARRIAGE", 30, 42]]}
+{"id": "synthetic-447", "source": "synthetic", "text": "Номер свидетельства о браке — X-ЮК N 131363.", "spans": [["MARRIAGE", 30, 43]]}
+{"id": "synthetic-448", "source": "synthetic", "text": "Номер свидетельства о браке — VI–УС №550103.", "spans": [["MARRIAGE", 30, 43]]}
+{"id": "synthetic-449", "source": "synthetic", "text": "В выписке указан кадастровый номер 33:12:35829:3894.", "spans": [["CADASTRAL", 35, 51]]}
+{"id": "synthetic-450", "source": "synthetic", "text": "В выписке указан кадастровый номер 12:17:024164:4407.", "spans": [["CADASTRAL", 35, 52]]}
+{"id": "synthetic-451", "source": "synthetic", "text": "В выписке указан кадастровый номер 55:19:3539463:5748.", "spans": [["CADASTRAL", 35, 53]]}
+{"id": "synthetic-452", "source": "synthetic", "text": "В выписке указан кадастровый номер 39:13:40521:5916.", "spans": [["CADASTRAL", 35, 51]]}
+{"id": "synthetic-453", "source": "synthetic", "text": "В выписке указан кадастровый номер 57:07:969080:1891.", "spans": [["CADASTRAL", 35, 52]]}
+{"id": "synthetic-454", "source": "synthetic", "text": "В выписке указан кадастровый номер 13:10:6676422:7376.", "spans": [["CADASTRAL", 35, 53]]}
+{"id": "synthetic-455", "source": "synthetic", "text": "В выписке указан кадастровый номер 14:01:92417:9359.", "spans": [["CADASTRAL", 35, 51]]}
+{"id": "synthetic-456", "source": "synthetic", "text": "В выписке указан кадастровый номер 55:08:801527:5775.", "spans": [["CADASTRAL", 35, 52]]}
+{"id": "synthetic-457", "source": "synthetic", "text": "Участок 33:12:35829:3894 внесли в реестр.", "spans": [["CADASTRAL", 8, 24]]}
+{"id": "synthetic-458", "source": "synthetic", "text": "Участок 12:17:024164:4407 внесли в реестр.", "spans": [["CADASTRAL", 8, 25]]}
+{"id": "synthetic-459", "source": "synthetic", "text": "Участок 55:19:3539463:5748 внесли в реестр.", "spans": [["CADASTRAL", 8, 26]]}
+{"id": "synthetic-460", "source": "synthetic", "text": "Участок 39:13:40521:5916 внесли в реестр.", "spans": [["CADASTRAL", 8, 24]]}
+{"id": "synthetic-461", "source": "synthetic", "text": "Участок 57:07:969080:1891 внесли в реестр.", "spans": [["CADASTRAL", 8, 25]]}
+{"id": "synthetic-462", "source": "synthetic", "text": "Участок 13:10:6676422:7376 внесли в реестр.", "spans": [["CADASTRAL", 8, 26]]}
+{"id": "synthetic-463", "source": "synthetic", "text": "Участок 14:01:92417:9359 внесли в реестр.", "spans": [["CADASTRAL", 8, 24]]}
+{"id": "synthetic-464", "source": "synthetic", "text": "Участок 55:08:801527:5775 внесли в реестр.", "spans": [["CADASTRAL", 8, 25]]}
+{"id": "synthetic-465", "source": "synthetic", "text": "Кадастровый номер объекта: 33:12:35829:3894.", "spans": [["CADASTRAL", 27, 43]]}
+{"id": "synthetic-466", "source": "synthetic", "text": "Кадастровый номер объекта: 12:17:024164:4407.", "spans": [["CADASTRAL", 27, 44]]}
+{"id": "synthetic-467", "source": "synthetic", "text": "Кадастровый номер объекта: 55:19:3539463:5748.", "spans": [["CADASTRAL", 27, 45]]}
+{"id": "synthetic-468", "source": "synthetic", "text": "Кадастровый номер объекта: 39:13:40521:5916.", "spans": [["CADASTRAL", 27, 43]]}
+{"id": "synthetic-469", "source": "synthetic", "text": "Кадастровый номер объекта: 57:07:969080:1891.", "spans": [["CADASTRAL", 27, 44]]}
+{"id": "synthetic-470", "source": "synthetic", "text": "Кадастровый номер объекта: 13:10:6676422:7376.", "spans": [["CADASTRAL", 27, 45]]}
+{"id": "synthetic-471", "source": "synthetic", "text": "Кадастровый номер объекта: 14:01:92417:9359.", "spans": [["CADASTRAL", 27, 43]]}
+{"id": "synthetic-472", "source": "synthetic", "text": "Кадастровый номер объекта: 55:08:801527:5775.", "spans": [["CADASTRAL", 27, 44]]}
+{"id": "synthetic-473", "source": "synthetic", "text": "Оценка участка с номером 33:12:35829:3894 завершена.", "spans": [["CADASTRAL", 25, 41]]}
+{"id": "synthetic-474", "source": "synthetic", "text": "Оценка участка с номером 12:17:024164:4407 завершена.", "spans": [["CADASTRAL", 25, 42]]}
+{"id": "synthetic-475", "source": "synthetic", "text": "Оценка участка с номером 55:19:3539463:5748 завершена.", "spans": [["CADASTRAL", 25, 43]]}
+{"id": "synthetic-476", "source": "synthetic", "text": "Оценка участка с номером 39:13:40521:5916 завершена.", "spans": [["CADASTRAL", 25, 41]]}
+{"id": "synthetic-477", "source": "synthetic", "text": "Оценка участка с номером 57:07:969080:1891 завершена.", "spans": [["CADASTRAL", 25, 42]]}
+{"id": "synthetic-478", "source": "synthetic", "text": "Оценка участка с номером 13:10:6676422:7376 завершена.", "spans": [["CADASTRAL", 25, 43]]}
+{"id": "synthetic-479", "source": "synthetic", "text": "Оценка участка с номером 14:01:92417:9359 завершена.", "spans": [["CADASTRAL", 25, 41]]}
+{"id": "synthetic-480", "source": "synthetic", "text": "Оценка участка с номером 55:08:801527:5775 завершена.", "spans": [["CADASTRAL", 25, 42]]}
+{"id": "synthetic-481", "source": "synthetic", "text": "Реквизит по кадастру — 33:12:35829:3894.", "spans": [["CADASTRAL", 23, 39]]}
+{"id": "synthetic-482", "source": "synthetic", "text": "Реквизит по кадастру — 12:17:024164:4407.", "spans": [["CADASTRAL", 23, 40]]}
+{"id": "synthetic-483", "source": "synthetic", "text": "Реквизит по кадастру — 55:19:3539463:5748.", "spans": [["CADASTRAL", 23, 41]]}
+{"id": "synthetic-484", "source": "synthetic", "text": "Реквизит по кадастру — 39:13:40521:5916.", "spans": [["CADASTRAL", 23, 39]]}
+{"id": "synthetic-485", "source": "synthetic", "text": "Реквизит по кадастру — 57:07:969080:1891.", "spans": [["CADASTRAL", 23, 40]]}
+{"id": "synthetic-486", "source": "synthetic", "text": "Реквизит по кадастру — 13:10:6676422:7376.", "spans": [["CADASTRAL", 23, 41]]}
+{"id": "synthetic-487", "source": "synthetic", "text": "Реквизит по кадастру — 14:01:92417:9359.", "spans": [["CADASTRAL", 23, 39]]}
+{"id": "synthetic-488", "source": "synthetic", "text": "Реквизит по кадастру — 55:08:801527:5775.", "spans": [["CADASTRAL", 23, 40]]}
+{"id": "synthetic-489", "source": "synthetic", "text": "Проверьте кадастровую запись «33:12:35829:3894».", "spans": [["CADASTRAL", 30, 46]]}
+{"id": "synthetic-490", "source": "synthetic", "text": "Проверьте кадастровую запись «12:17:024164:4407».", "spans": [["CADASTRAL", 30, 47]]}
+{"id": "synthetic-491", "source": "synthetic", "text": "Проверьте кадастровую запись «55:19:3539463:5748».", "spans": [["CADASTRAL", 30, 48]]}
+{"id": "synthetic-492", "source": "synthetic", "text": "Проверьте кадастровую запись «39:13:40521:5916».", "spans": [["CADASTRAL", 30, 46]]}
+{"id": "synthetic-493", "source": "synthetic", "text": "Проверьте кадастровую запись «57:07:969080:1891».", "spans": [["CADASTRAL", 30, 47]]}
+{"id": "synthetic-494", "source": "synthetic", "text": "Проверьте кадастровую запись «13:10:6676422:7376».", "spans": [["CADASTRAL", 30, 48]]}
+{"id": "synthetic-495", "source": "synthetic", "text": "Проверьте кадастровую запись «14:01:92417:9359».", "spans": [["CADASTRAL", 30, 46]]}
+{"id": "synthetic-496", "source": "synthetic", "text": "Проверьте кадастровую запись «55:08:801527:5775».", "spans": [["CADASTRAL", 30, 47]]}
+{"id": "synthetic-497", "source": "synthetic", "text": "На схеме выделен участок 33:12:35829:3894.", "spans": [["CADASTRAL", 25, 41]]}
+{"id": "synthetic-498", "source": "synthetic", "text": "На схеме выделен участок 12:17:024164:4407.", "spans": [["CADASTRAL", 25, 42]]}
+{"id": "synthetic-499", "source": "synthetic", "text": "На схеме выделен участок 55:19:3539463:5748.", "spans": [["CADASTRAL", 25, 43]]}
+{"id": "synthetic-500", "source": "synthetic", "text": "На схеме выделен участок 39:13:40521:5916.", "spans": [["CADASTRAL", 25, 41]]}
+{"id": "synthetic-501", "source": "synthetic", "text": "На схеме выделен участок 57:07:969080:1891.", "spans": [["CADASTRAL", 25, 42]]}
+{"id": "synthetic-502", "source": "synthetic", "text": "На схеме выделен участок 13:10:6676422:7376.", "spans": [["CADASTRAL", 25, 43]]}
+{"id": "synthetic-503", "source": "synthetic", "text": "На схеме выделен участок 14:01:92417:9359.", "spans": [["CADASTRAL", 25, 41]]}
+{"id": "synthetic-504", "source": "synthetic", "text": "На схеме выделен участок 55:08:801527:5775.", "spans": [["CADASTRAL", 25, 42]]}
+{"id": "synthetic-505", "source": "synthetic", "text": "В карточке указан номер по кадастру 33:12:35829:3894.", "spans": [["CADASTRAL", 36, 52]]}
+{"id": "synthetic-506", "source": "synthetic", "text": "В карточке указан номер по кадастру 12:17:024164:4407.", "spans": [["CADASTRAL", 36, 53]]}
+{"id": "synthetic-507", "source": "synthetic", "text": "В карточке указан номер по кадастру 55:19:3539463:5748.", "spans": [["CADASTRAL", 36, 54]]}
+{"id": "synthetic-508", "source": "synthetic", "text": "В карточке указан номер по кадастру 39:13:40521:5916.", "spans": [["CADASTRAL", 36, 52]]}
+{"id": "synthetic-509", "source": "synthetic", "text": "В карточке указан номер по кадастру 57:07:969080:1891.", "spans": [["CADASTRAL", 36, 53]]}
+{"id": "synthetic-510", "source": "synthetic", "text": "В карточке указан номер по кадастру 13:10:6676422:7376.", "spans": [["CADASTRAL", 36, 54]]}
+{"id": "synthetic-511", "source": "synthetic", "text": "В карточке указан номер по кадастру 14:01:92417:9359.", "spans": [["CADASTRAL", 36, 52]]}
+{"id": "synthetic-512", "source": "synthetic", "text": "В карточке указан номер по кадастру 55:08:801527:5775.", "spans": [["CADASTRAL", 36, 53]]}
+{"id": "synthetic-513", "source": "synthetic", "text": "Для возврата выбрана карта 4629783933521671.", "spans": []}
+{"id": "synthetic-514", "source": "synthetic", "text": "Укажите номер карты: 5909905995243286.", "spans": []}
+{"id": "synthetic-515", "source": "synthetic", "text": "Поле оплаты содержало 4178500552788877.", "spans": []}
+{"id": "synthetic-516", "source": "synthetic", "text": "Указан номер банковской карты 5671109043778650.", "spans": []}
+{"id": "synthetic-517", "source": "synthetic", "text": "Получатель ввёл «4960584205282035» в поле карты.", "spans": []}
+{"id": "synthetic-518", "source": "synthetic", "text": "В чеке напечатана карта 5858642844150021.", "spans": []}
+{"id": "synthetic-519", "source": "synthetic", "text": "В карточке поставщика указан ИНН 6601423235.", "spans": []}
+{"id": "synthetic-520", "source": "synthetic", "text": "Проверили ИНН: 770721834007.", "spans": []}
+{"id": "synthetic-521", "source": "synthetic", "text": "Для договора оставили реквизит налогоплательщика 5402290420.", "spans": []}
+{"id": "synthetic-522", "source": "synthetic", "text": "ИНН 502747624505 нужно внести в акт.", "spans": []}
+{"id": "synthetic-523", "source": "synthetic", "text": "В заявке фигурирует ИНН № 7707789658.", "spans": []}
+{"id": "synthetic-524", "source": "synthetic", "text": "Внесён СНИЛС 70603277467.", "spans": []}
+{"id": "synthetic-525", "source": "synthetic", "text": "СНИЛС: 23216988068.", "spans": []}
+{"id": "synthetic-526", "source": "synthetic", "text": "В анкете указан страховой номер 43406822464.", "spans": []}
+{"id": "synthetic-527", "source": "synthetic", "text": "СНИЛС № 14862201558 сверили с выпиской.", "spans": []}
+{"id": "synthetic-528", "source": "synthetic", "text": "Выгрузка содержит СНИЛС «31751543057».", "spans": []}
